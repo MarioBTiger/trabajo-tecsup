@@ -1,0 +1,16 @@
+body,html{
+    height: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: none;
+}
+.home{
+    background-position: center;
+    background-size: cover;
+    background-color: grey;
+    min-height: 75%;
+}
+.menu{
+    display: none;
+}
